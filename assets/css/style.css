@@ -1,0 +1,59 @@
+/* style.css for the profile page */
+/* written by/for Letty Bedard */
+
+body{
+}
+
+div.mainContent{
+  width: 960px;
+  font-family: 'Arial', 'Helvetica Nue', Helvetica, sans-serif;
+}
+
+
+h1, h2{
+}
+
+nav.navBar{
+  overflow: auto;
+}
+h1.navLogo{
+  font-family: 'Georgia', Times, 'Times New Roman', serif;
+  float: left;
+  margin: 0;
+  padding:  8px;
+  background-color: #4aaaa5;
+  color: #ffffff;
+}
+
+ul.navList{
+  list-style-type: none;
+  margin: 0;
+  margin-top: 12.5px;
+  padding: 0;
+  overflow: hidden;
+}
+
+li.navItem{
+  float: right;
+  display: inline-block;
+  padding: 0 10px;
+  border-right: 1px solid #cccccc;
+}
+
+a.navItem{
+  color: #777777; 
+  text-decoration: none;
+}
+
+li.navItem:first-child{
+  border-right: none;
+  padding-right: 0;
+}
+     
+hr.horizontalLine {
+  height: 1px;
+  background-color: #cccccc;
+  border: none;
+  padding: 0;
+  margin: 0;
+}
