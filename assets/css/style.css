@@ -49,13 +49,13 @@ li.navItem:first-child{
   padding-right: 0;
 }
 
-hr.horizontalLine {
+/* hr.horizontalLine {
   background-color: #cccccc;
   height: 1px;
   border: none;
   padding: 0;
   margin: 0;
-}
+} */
 
 div.mainPanel{
   background-image: url("../images/cork-board.png");
@@ -65,7 +65,7 @@ div.mainPanel{
   border-bottom: 3px solid #4aaaa5;
 }
 
-div.aboutMe{
+div.panelContent{
   justify-content: center;
   width: 960px;
   background-color: #ffffff;
