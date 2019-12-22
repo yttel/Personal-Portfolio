@@ -110,11 +110,11 @@ div.container{
   flex-wrap: wrap;
 }
 
-div.hangman{
+div.placeholder{
   width: 320px;
   height: 200px;
-  background-color: aqua;
   background-image: url("http://lorempixel.com/320/200");
+  margin: 15px 20px 15px 0px;
 }
 
 div.titleBox{
