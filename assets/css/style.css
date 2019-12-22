@@ -105,6 +105,28 @@ div.copyContent{
   font-family: 'Arial', 'Helvetica Nue', Helvetica, sans-serif;
 }
 
+div.container{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+div.hangman{
+  width: 320px;
+  height: 200px;
+  background-color: aqua;
+  background-image: url("http://lorempixel.com/320/200");
+}
+
+div.titleBox{
+  background-color: #4aaaa5;
+  color: #ffffff;
+  text-align: center;
+  font-size: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 150px;
+}
+
 input.name{
   width: 100%;
   padding: 12px 20px;
